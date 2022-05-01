@@ -92,12 +92,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Software Solutions Releases Nexus Repository</name>
-	      <url>http://54.245.196.39/:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <url>http://18.140.55.22:8081/repository/jaisampl_Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Software Solutions Snapshot Nexus Repository </name>
-	      <url>http://54.245.196.39:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <name>Mithun Software Solutions shoSnapt Nexus Repository </name>
+	      <url>http://18.140.55.22:8081/repository/jaisample_Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
